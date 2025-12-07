@@ -1,4 +1,4 @@
-# dijkstra_grid.py - SUPER SIMPLE VERSION (Windows Compatible)
+
 print("=== WEEK 1: STARTING SIMPLE ===")
 
 # Step 1: Make a tiny 3x3 grid
